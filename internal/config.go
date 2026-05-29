@@ -40,3 +40,4 @@ func Run() error {
 // guard against empty input
 // keep defaults in sync with the manifest
 // clarify the control flow
+// handle the edge case from the last release
